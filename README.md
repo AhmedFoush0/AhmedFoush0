@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Ahmed Fouad | Data Analyst & Python Developer</title>
+  
+
 </head>
 <body>
 
